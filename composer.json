@@ -1,0 +1,21 @@
+{
+  "name": "titledk/silverstripe-googledocspage",
+  "description": "A page type that imports content from Google Docs",
+  "type": "silverstripe-module",
+  "homepage": "https://github.com/titledk/silverstripe-googledocspage",
+  "keywords": ["silverstripe", "google docs", "googledocs"],
+  "license": "MIT",
+  "authors": [
+    {"name": "Anselm Christophersen","email": "ac@anselm.dk"}
+  ],
+  "support": {
+    "issues": "https://github.com/titledk/silverstripe-googledocspage/issues"
+  },
+  "require": {
+    "silverstripe/cms": "~2.3",
+    "silverstripe/framework": "~2.3"
+  },
+  "extra": {
+    "installer-name": "googledocspage"
+  }
+}
